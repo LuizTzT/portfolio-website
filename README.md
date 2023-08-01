@@ -31,8 +31,7 @@ git clone git@github.com:LuizTzT/portfolio-website.git
 cd portfolio-website
 ```
 
-<p>Abra o arquivo <strong>index.html</strong> no seu navegador.</p>
-<p>Acesse a aplicação em seu navegador.</p>
+<p>Abra o arquivo <strong>index.html</strong> e acesse a aplicação no seu navegador.</p>
 
 <p>Divirta-se! 🎉🎉</p>
 
