@@ -31,12 +31,6 @@ git clone git@github.com:LuizTzT/portfolio-website.git
 cd portfolio-website
 ```
 
-<p>Instale as dependências:</p>
-
-```bash
-npm install
-```
-
 <p>Abra o arquivo <strong>index.html</strong> no seu navegador.</p>
 <p>Acesse a aplicação em seu navegador.</p>
 
