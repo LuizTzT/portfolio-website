@@ -35,4 +35,18 @@ cd portfolio-website
 
 <p>Divirta-se! 🎉🎉</p>
 
+<h2>Portfólio em funcionamento</h2>
+<h3>Home</h3>
+<img href="./img/portfolio-images/home.png"/>
 
+<h3>Perfil</h3>
+<img href="./img/portfolio-images/perfil.png"/>
+
+<h3>Projetos</h3>
+<img href="./img/portfolio-images/projetos.png"/>
+
+<h3>Menu aberto</h3>
+<img href="./img/portfolio-images/menu-opened.png"/>
+
+<h3>Menu fechado</h3>
+<img href="./img/portfolio-images/menu-closed.png"/>
