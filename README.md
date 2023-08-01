@@ -36,17 +36,19 @@ cd portfolio-website
 <p>Divirta-se! 🎉🎉</p>
 
 <h2>Portfólio em funcionamento</h2>
+
 <h3>Home</h3>
-<img href="./img/portfolio-images/home.png"/>
+<img src="./img/portfolio-images/home.png"/>
 
 <h3>Perfil</h3>
-<img href="./img/portfolio-images/perfil.png"/>
+<img src="./img/portfolio-images/perfil.png" alt="Imagem de perfil">
 
 <h3>Projetos</h3>
-<img href="./img/portfolio-images/projetos.png"/>
+<img src="./img/portfolio-images/projetos.png" alt="Imagem de projetos">
 
 <h3>Menu aberto</h3>
-<img href="./img/portfolio-images/menu-opened.png"/>
+<img src="./img/portfolio-images/menu-opened.png" alt="Imagem do menu aberto">
 
 <h3>Menu fechado</h3>
-<img href="./img/portfolio-images/menu-closed.png"/>
+<img src="./img/portfolio-images/menu-closed.png" alt="Imagem do menu fechado">
+
